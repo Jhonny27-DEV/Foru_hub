@@ -96,7 +96,7 @@ spring.jpa.hibernate.ddl-auto=validate
 spring.flyway.enabled=true
 spring.flyway.locations=classpath:db/migration
 jwt.secret=${JWT_SECRET}
-jwt.expiration=${JWT_EXPIRATION}  # Ejemplo: 86400000 para 24 horas
+
 ```
 
 ### Ejecución de Migraciones
