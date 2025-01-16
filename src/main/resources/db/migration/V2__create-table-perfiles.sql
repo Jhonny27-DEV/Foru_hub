@@ -1,0 +1,6 @@
+CREATE TABLE perfiles (
+    id BIGSERIAL NOT NULL,
+    nombre VARCHAR(100) NOT NULL UNIQUE,
+
+    PRIMARY KEY (id)
+);
