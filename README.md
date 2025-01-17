@@ -179,5 +179,5 @@ Utiliza **Insomnia** o **Postman** para probar los endpoints de la API. Ejemplo 
 - **Jhonny Rosario**
 - **Formación:** Java Orientado a Objetos G7 - ONE
 - **Organización:** Alura Latam y Oracle Next Education
-- **Contacto:** [GitHub](https://github.com/tu-usuario) | [LinkedIn](https://linkedin.com/in/tu-perfil)
+
 
